@@ -1,0 +1,36 @@
+=== Project Entry ===
+Project Name : SafeMeal
+Team Leader  : Hamza karamanlı
+Team Size    : 4-6
+Project Type : Web
+Start Date   : 16.12.2025
+Record Time  : 04/03/2026 00:55:12
+======
+
+=== Project Entry ===
+Project Name : tckn to text
+Team Leader  : Muhammed karamanlı
+Team Size    : 1-3
+Project Type : API
+Start Date   : 19.01.2026
+Record Time  : 04/03/2026 00:55:46
+======
+
+=== Project Entry ===
+Project Name : multi_agent_system
+Team Leader  : Muhammed Krmnl
+Team Size    : 10+
+Project Type : Desktop
+Start Date   : 01.02.2026
+Record Time  : 04/03/2026 00:56:27
+======
+
+=== Project Entry ===
+Project Name : MyBazar
+Team Leader  : Muhammed Hamza
+Team Size    : 7-10
+Project Type : Mobile
+Start Date   : 01.12.2025
+Record Time  : 04/03/2026 00:58:20
+======
+
